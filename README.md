@@ -15,5 +15,6 @@ Topics & tools include: Python, basic statistical analysis, OpenRefine, Carto, p
 ## Graphics/ Charts
 
 ## Text Analysis
+sentimental analysis, scikit-learn, text blob, etc.
 
 ## Network Analysis
