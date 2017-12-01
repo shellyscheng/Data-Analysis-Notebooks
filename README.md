@@ -36,6 +36,19 @@ Topics & tools include: Python, basic statistical analysis, OpenRefine, Carto, p
 ## Text Analysis
 sentimental analysis, scikit-learn, text blob, etc.
 
+- Classifier
+- Cosine Similarity
+- Couting and Stemming
+- K-Means Clustering with scikit-learn
+
+- Hip Pop Lyrics
+- NRC Emotional Lexicon
+- Trump vs State of the Union address analysis
+- Wine Classifier
+
+- Naive Bayes (Machine Learning)
+etc.
+
 ## Network Analysis
 - Reshape and Build Graphs
 - Network Centrality
