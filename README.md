@@ -1,4 +1,4 @@
-# Data Analysis Notebooks
+# Data Analysis Notebooks (Python)
 
 Here are some data analysis work I did through python notebook.
 
@@ -19,6 +19,13 @@ Topics & tools include: Python, basic statistical analysis, OpenRefine, Carto, p
 - Maryland Business Licenses
 
 ## Mapping
+- Chicago Food Desert
+- Using Geopandas
+- Basic Mapping
+- Spatial Joins
+- Column Joins
+- Using Basemap
+- Power Plant Mapping
 
 ## Graphics/ Charts
 - Seaborns (Grapic Library)
@@ -30,3 +37,8 @@ Topics & tools include: Python, basic statistical analysis, OpenRefine, Carto, p
 sentimental analysis, scikit-learn, text blob, etc.
 
 ## Network Analysis
+- Reshape and Build Graphs
+- Network Centrality
+- NetworkX Graphs (Source-Target DataFrame)
+- Marilyn Monroe Loves Visualization
+- Network Calculation and Visualization
