@@ -11,6 +11,12 @@ Topics & tools include: Python, basic statistical analysis, OpenRefine, Carto, p
 - Last FM API (Music)
 
 ## Scrapping
+- BeautifulSoup Scraping
+- Mines Data
+- NYTimes Front Page
+- Teaxs Barber Violations
+- Mines Data through Selenium
+- Maryland Business Licenses
 
 ## Mapping
 
