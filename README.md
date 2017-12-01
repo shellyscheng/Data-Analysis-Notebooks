@@ -6,14 +6,19 @@ Topics & tools include: Python, basic statistical analysis, OpenRefine, Carto, p
 
 ## Data Analysis using Pandas
 
-## API Inquries
+## API Requests
+-Dark Sky API (Weather)
+-Last FM API (Music)
 
 ## Scrapping
 
 ## Mapping
 
 ## Graphics/ Charts
-Seaborns
+-Seaborns (Grapic Library)
+-House sales and time data
+-311 Requests from NYPD
+-Visa Percent Change and Reshaping
 
 ## Text Analysis
 sentimental analysis, scikit-learn, text blob, etc.
