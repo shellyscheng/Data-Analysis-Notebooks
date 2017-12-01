@@ -13,3 +13,7 @@ Topics & tools include: Python, basic statistical analysis, OpenRefine, Carto, p
 ## Mapping
 
 ## Graphics/ Charts
+
+## Text Analysis
+
+## Network Analysis
