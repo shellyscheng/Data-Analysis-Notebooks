@@ -40,14 +40,12 @@ sentimental analysis, scikit-learn, text blob, etc.
 - Cosine Similarity
 - Couting and Stemming
 - K-Means Clustering with scikit-learn
-
 - Hip Pop Lyrics
 - NRC Emotional Lexicon
 - Trump vs State of the Union address analysis
 - Wine Classifier
-
 - Naive Bayes (Machine Learning)
-etc.
+etc
 
 ## Network Analysis
 - Reshape and Build Graphs
