@@ -5,6 +5,12 @@ Here are some data analysis work I did through python notebook.
 Topics & tools include: Python, basic statistical analysis, OpenRefine, Carto, pandas, HTML, CSVs, APIs, csvkit, git/GitHub, cron, StackOverflow, data cleaning, command line tools, and more
 
 ## Data Analysis using Pandas
+- Cherry Blossoms Data
+- Corperate Prosecution
+- National Electronic Injury Surveillance System Data (NEISS)
+- The Price of Weed
+- Animal Dataset
+- Billionaries
 
 ## API Requests
 - Dark Sky API (Weather)
