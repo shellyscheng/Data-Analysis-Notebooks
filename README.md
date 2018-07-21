@@ -1,6 +1,8 @@
 # Data Analysis Notebooks (Python)
 
-Data analysis through python notebook: classwork and homework assignments from Columbia Journalism School.
+Data analysis through python notebook
+
+Classwork and homework assignments from Columbia Journalism School. Courses taught by Jonathan Soma.
 
 Topics & tools include: Python, basic statistical analysis, OpenRefine, Carto, pandas, HTML, CSVs, APIs, csvkit, git/GitHub, cron, StackOverflow, data cleaning, command line tools, and more
 
